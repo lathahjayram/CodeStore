@@ -2,7 +2,7 @@ package Exercise;
 
 import java.util.Scanner;
 
-public class PatternMatchingFeb9 {
+public class PatternMatchingFeb10 {
 
    /* 1 space & 1 star          row(i)     spaces(j)
     -*          i->row           1          1
